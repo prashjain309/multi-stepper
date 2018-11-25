@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Search engine",
+    "subSteps": [
+      {
+        "title": "google",
+        "content": "google"
+      },
+      {
+        "title": "Bing",
+        "content": "Bing"
+      }
+    ]
+  },
+  {
+    "title": "Social Media",
+    "subSteps": [
+      {
+        "title": "Twitter",
+        "content": "Twitter"
+      },
+      {
+        "title": "Facebook",
+        "content": "Facebook"
+      }
+    ]
+  }
+]

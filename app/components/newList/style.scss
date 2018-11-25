@@ -1,0 +1,18 @@
+.list-wrapper {
+  ul {
+    border: 2px solid black;
+    padding: 16px;
+
+    li {
+      display: inline;
+      padding: 10px;
+      margin: 0 10px !important;
+      border: 1px solid #22ec22;
+    }
+    .active {
+      background: #3ac500;
+      color: #fff;
+      border-radius: 4px;
+    }
+  }
+}
